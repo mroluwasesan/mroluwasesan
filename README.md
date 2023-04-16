@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mroluwasesan
 - 👀 I’m interested in Data Science, Machine Learning, and computer vision
-- 🌱 I’m currently learning some Courses on Coursera to get my head straight 
+- 🌱 I’m currently learning some Courses on Udemy on IOS Development as i find intrest in it 
 - 💞️ I’m looking to collaborate on with any one intrested in my field of study
 - 📫 How to reach me through mr.oluwasesan@gmail.com or on whatsapp +2348088554495
 
